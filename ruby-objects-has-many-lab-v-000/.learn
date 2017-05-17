@@ -1,0 +1,7 @@
+tags:
+  - has many
+  - belongs to 
+  - object relations
+languages:
+  - Ruby
+resources: 0

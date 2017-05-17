@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/user.rb"
+require_relative "../lib/teacher.rb"
+require_relative "../lib/student.rb"
+
+steve = Student.new
+steve.first_name = "Steve"
+steve.last_name = "Jobs"
+
+avi = Teacher.new
+avi.first_name = "Avi"
+avi.last_name = "Flombaum"
+
+jim = Student.new
+jim.first_name = "Jim"
+jim.last_name = "Cricket"
+
+some_knowledge = avi.teach
+some_more_knowledge = avi.teach
+
+steve.learn(some_knowledge)
+jim.learn(some_more_knowledge)
+
+puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+puts "Jim just learned this important knowledge: '#{jim.knowledge.first}' from Avi"

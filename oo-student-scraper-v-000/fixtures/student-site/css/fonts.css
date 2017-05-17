@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'GothamPro';
+  src: url('../assets/fonts/GothamPro.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-Bold';
+  src: url('../assets/fonts/GothamPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-BoldItalic';
+  src: url('../assets/fonts/GothamPro-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-Italic';
+  src: url('../assets/fonts/GothamPro-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-Light';
+  src: url('../assets/fonts/GothamPro-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-LightItalic';
+  src: url('../assets/fonts/GothamPro-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-Medium';
+  src: url('../assets/fonts/GothamPro-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-MediumItalic';
+  src: url('../assets/fonts/GothamPro-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamProNarrow-Bold';
+  src: url('../assets/fonts/GothamProNarrow-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamProNarrow-Medium';
+  src: url('../assets/fonts/GothamProNarrow-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-Black';
+  src: url('../assets/fonts/GothamPro-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothamPro-BlackItalic';
+  src: url('../assets/fonts/GothamPro-BlackItalic.ttf') format('truetype');
+}
